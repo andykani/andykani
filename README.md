@@ -3,9 +3,8 @@
 - 🌱 I’m currently learning
 > REACTjs and REACT Native
 > ANGULARjs and VUEjs
-> Symfony ans Laravel
+> Symfony and Laravel
 - 💞️ I’m looking to collaborate on ...
 - 📫
 
-
-a
+I love learning
